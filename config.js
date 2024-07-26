@@ -1,6 +1,6 @@
 module.exports = {
 
-    token: "MTI2NTYwMDQ5OTI3MzY5OTMzOQ.Gf54ts.bQriDHsUuALVyVGBkXsYSMKvqUFYmwFnlzf8Bs", //bot tokeniniz
+    token: "MTI2NTYwMDQ5OTI3MzY5OTMzOQ.GEUSHT.FgISc7bGqVCshsS5gzAwMdpcxY2YxfS53d0wYA", //bot tokeniniz
     clientId: "1265600499273699339", //Bot idsi
     key: "K81916576188957", //ocr.space key link : https://ocr.space
 
